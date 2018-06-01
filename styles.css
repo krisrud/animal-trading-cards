@@ -1,0 +1,33 @@
+/* add your CSS here */
+#interestingfact { 
+	font-style: italic; 
+}
+
+span {
+	font-weight: bold; 
+}
+	
+ul { 
+	list-style-type: none; 
+	padding-left: 0;
+}
+
+#info {
+	border: 2px solid lightgrey;
+	padding: 0 10px 0 10px;
+}
+
+.card {
+	width: 300px;
+	border: 2px solid lightgrey;
+	box-shadow: 11px 11px 0px 0px rgba(235,230,235,0.76);
+	margin: 10px;
+	margin-left: auto;
+    margin-right: auto;
+	padding: 10px;
+}
+
+#pugture {
+	width: 300px;
+	padding-bottom: 10px;
+}
